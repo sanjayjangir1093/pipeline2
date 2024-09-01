@@ -1,1 +1,2 @@
-# pipeline2
+# simple-java-maven-app
+
