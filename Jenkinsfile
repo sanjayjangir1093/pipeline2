@@ -3,7 +3,7 @@ pipeline {
 	stages {
 	     stage("pulling the code from scm") {
 	          steps {
-		  	git branch: 'main', url: 'https://github.com/devd7773/jenkins-java-pipeline.git'
+		  	git branch: 'main', url: 'https://github.com/sanjayjangir1093/pipeline2.git'
 		  }
 	     }
 	     stage("build the code") {
